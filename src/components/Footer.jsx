@@ -186,7 +186,7 @@ const Footer = () => {
         <div className="border-t border-slate-800 mt-12 pt-6 text-center">
 
           <p>
-            © 2026 TechNova Solutions. All Rights Reserved.
+            © 2026 West Elinor Technologies. All Rights Reserved.
           </p>
 
         </div>

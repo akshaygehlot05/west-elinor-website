@@ -16,17 +16,16 @@ const Hero = () => {
           viewport={{ once: false, amount: 0.3 }}
         >
           <span className="text-blue-500 font-semibold">
-            Welcome to TechNova
+            Welcome to West Elinor Technologies
           </span>
 
           <h1 className="text-5xl md:text-7xl font-bold mt-4 mb-6">
-            Transforming Ideas Into
-            <span className="text-blue-500"> Digital Solutions</span>
+            Enlightening World with 
+            <span className="text-blue-500"> Technology</span>
           </h1>
 
           <p className="text-slate-400 text-lg mb-8">
-            We help businesses grow through innovative software,
-            web applications, cloud solutions and digital transformation.
+            West Elinor Technologies is an IT services and consulting company focused on delivering web, mobile, e-learning, cloud, and AI-powered business solutions.
           </p>
 
           <div className="flex gap-4">

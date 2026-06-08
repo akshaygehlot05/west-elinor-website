@@ -10,12 +10,12 @@ const Navbar = () => {
         <div className="flex items-center gap-3">
           <img
             src={logo}
-            alt="TechNova"
+            alt="West Elinor Technologies"
             className="w-20 h-20 object-contain drop-shadow-[0_0_15px_rgba(59,130,246,0.8)]"
           />
 
           <h1 className="text-2xl font-bold text-blue-500">
-            TechNova
+            West Elinor Technologies
           </h1>
         </div>
 

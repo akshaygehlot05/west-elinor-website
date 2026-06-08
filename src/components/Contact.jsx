@@ -73,7 +73,7 @@ const Contact = () => {
                     </p>
 
                     <p className="text-lg">
-                      info@technova.com
+                      info@Westelinortechnologies.com
                     </p>
                   </div>
 
