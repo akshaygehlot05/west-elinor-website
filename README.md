@@ -69,9 +69,6 @@ Add your Vercel URL here:
 
 https://your-vercel-url.vercel.app
 
-## 📸 Screenshots
-
-Add project screenshots inside the screenshots folder.
 
 ## 👨‍💻 Developer
 
