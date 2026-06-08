@@ -1,16 +1,84 @@
-# React + Vite
+# West Elinor Technologies Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive IT Company Website built using React.js, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive Design
+- Modern UI/UX
+- Animated Sections
+- Hero Section
+- About Us Section
+- Services Section
+- Team Section
+- Portfolio Section
+- Contact Section
+- Footer with Social Links
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+src/
+├── components/
+├── assets/
+├── App.jsx
+├── main.jsx
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/akshaygehlot05/west-elinor-website.git
+```
+
+2. Navigate to project folder
+
+```bash
+cd west-elinor-website
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run development server
+
+```bash
+npm run dev
+```
+
+## 🏗️ Build Project
+
+```bash
+npm run build
+```
+
+## 🌐 Live Demo
+
+Add your Vercel URL here:
+
+https://your-vercel-url.vercel.app
+
+## 📸 Screenshots
+
+Add project screenshots inside the screenshots folder.
+
+## 👨‍💻 Developer
+
+Akshay Gehlot
+
+BCA Student | MERN Stack Developer
+
+## 📄 License
+
+This project is developed for learning and internship purposes.
